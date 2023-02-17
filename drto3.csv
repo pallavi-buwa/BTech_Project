@@ -1,0 +1,5 @@
+Direction,car,motorbike,bus,truck
+Up,0,0,0,0
+Down,0,0,0,0
+Right,0,1,0,0
+Left,4,5,0,1
